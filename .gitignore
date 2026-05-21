@@ -1,0 +1,11 @@
+node_modules/
+dist/
+*.pdf
+*.local
+.env
+.env.*
+.DS_Store
+*.tsbuildinfo
+.vite/
+.cursor/
+cursor_token_optimization_protocol.md
